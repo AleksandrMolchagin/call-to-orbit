@@ -1,6 +1,6 @@
 # Call to Orbit :milky_way:
 
-Call to Orbit - is an educational crossword game that was made to use in astronomy classes. The main game's objective is to find a Russian word that has a Greek meaning "the art of sailing in the Universe."  
+Call to Orbit is an educational crossword game that was made to use in astronomy classes. The main game's objective is to find a Russian word that has a Greek meaning "the art of sailing in the Universe."  
 
 :grey_exclamation: The game is available  **only for Windows** and supports **only the Russian language**.
 
