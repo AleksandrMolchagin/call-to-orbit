@@ -5,11 +5,11 @@ Call to Orbit - is an educational crossword game that was made to use in astrono
 :grey_exclamation: The game is available  **only for Windows** and supports **only the Russian language**.
 
 ## How to use:
-Download **<code>CallToOrbit.exe</code>** file and execute it.
+Download [**<code>CallToOrbit.exe</code>**](https://github.com/AleksandrMolchagin/call-to-orbit/raw/main/CallToOrbit.exe)  file and execute it.
 
 To record an answer, use the button mobile phone. For example, to type the word ГАГАРИН, you need to press 2, 1, 2, 1, 6, 3 and 5.
 
-If you want to see the game's code, use **<code>code.as</code>** file.
+If you want to see the game's code, use [**<code>code.as</code>**](https://github.com/AleksandrMolchagin/call-to-orbit/blob/main/code.as)  file.
 
 ## Technologies:
 - Adobe Animate CC
